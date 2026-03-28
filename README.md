@@ -6,6 +6,8 @@
 
 1.  **`got_nodes_clean.csv`**: Comprehensive node attribute list for all unique, named characters (N=203).
 2.  **`got_edges_clean.csv`**: The undirected edge list representing character interactions (E=1041).
+3.  **`got_s1_s3_nodes.csv`**: Initial node list of season 1-3 derived from [mathbeveridge/gameofthrones](https://github.com/mathbeveridge/gameofthrones).
+4.  **`got_s1_s3_edges.csv`**: Initial edge list of season 1-3.
 
 ---
 
