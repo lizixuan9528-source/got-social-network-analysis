@@ -1,5 +1,4 @@
 # 🐺 Game of Thrones Social Network Dataset (Seasons 1-3)
-### *High-Fidelity Edition: Optimized for Structural Hole Analysis*
 
 ---
 
@@ -24,7 +23,7 @@ This file contains demographic, narrative, and network features for characters, 
 | **`Gender`** | `String` | Character's gender: `Male`, `Female`, or `Unknown`. |
 | **`Is_Noble`** | `Binary` | Nobility indicator: `1` = Royalty or High Nobility (Lords/Ladies), `0` = Others (Knights, Smallfolk, etc.). |
 | **`House`** | `String` | Political Tier categorization: `Great_Houses` (The 9 Major Houses), `Minor_Houses` (Vassal families), or `None`. |
-| **`Culture`** | `String` | Geographical/Cultural grouping: `North_and_Wildlings`, `Westeros_South`, `Essos`, or `Unknown`. |
+| **`Culture`** | `String` | Geographical/Cultural grouping: `North_and_Wildlings`, `Westeros_South`, `Essos`, or `None`. |
 | **`Titles`** | `String` | Social/Professional class: `Royalty`, `Official`, `Military_Knight`, `Nobility`, `Religion_Academic`, or `None`. |
 | **`Active`** | `Integer` | The number of POV (Point of View) chapters the character has in the source novels. Acts as a proxy for narrative importance. |
 | **`Survival`** | `Binary` | Survival status by the end of Season 3: `1` = Survived, `0` = Deceased. |
@@ -42,7 +41,7 @@ Represents the **undirected** social ties between characters.
 This dataset underwent the following rigorous preprocessing steps:
 
 * **Nameless Filtering**: Utilized advanced Regex to strip out generic professional titles (e.g., *Assassin, Prostitute, Messenger*). This prevents "ghost nodes" from creating false brokerage effects in the network topology.
-* **TV-to-Book Alignment**: Addressed show-exclusive characters (e.g., *Ros, Talisa Maegyr*) and name discrepancies (e.g., *Yara Greyjoy* vs. *Asha Greyjoy*) to ensure high-quality API hits.
+* **TV-to-Book Alignment**: Addressed show-exclusive characters (e.g., *Ros*) and name discrepancies (e.g., *Yara Greyjoy* vs. *Asha Greyjoy*) to ensure high-quality API hits.
 * **Manual Imputation**: For 14 critical nodes not found in standard APIs (e.g., *Eddison Tollett, Myranda, Olyvar, Radzai Mo Eraz*), attributes were manually populated using domain expertise to ensure 100% data completeness for statistical modeling.
 * **Categorical Consolidation**: Merged sparse House categories into a three-tier hierarchy (`Great`, `Minor`, `None`) to increase statistical power for Logistic Regression and avoid over-fitting due to sparse data.
 
