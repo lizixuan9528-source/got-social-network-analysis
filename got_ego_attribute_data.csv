@@ -1,0 +1,126 @@
+"Ego_ID","label","Degree","Strength","Gender","Culture","House","Titles","Is_Noble","Active","Survival"
+"AEGON","Aegon Targaryen",5,10,"Male","Essos","Great_Houses","None",0,0,0
+"AERYS","Aerys II",16,63,"Male","None","None","Royalty",1,0,0
+"ALLISER_THORNE","Alliser Thorne",8,73,"Male","None","Minor_Houses","Military_Knight",0,0,1
+"ARYA","Arya Stark",47,1142,"Female","North_and_Wildlings","Great_Houses","Royalty",1,5,1
+"BAELOR","Baelor I",9,30,"Male","None","None","Royalty",1,0,0
+"BALON","Balon Greyjoy",8,125,"Male","None","None","Royalty",1,0,0
+"BARRISTAN","Barristan Selmy",18,215,"Male","Westeros_South","Minor_Houses","Military_Knight",0,1,1
+"BENJEN","Benjen Stark",10,84,"Male","North_and_Wildlings","Great_Houses","Military_Knight",0,0,1
+"BERIC","Beric Dondarrion",9,121,"Male","None","Minor_Houses","Nobility",1,0,0
+"BRAN","Brandon Stark",33,851,"Male","North_and_Wildlings","Great_Houses","None",0,0,0
+"BRANDON_STARK","Brandon Stark",6,17,"Male","North_and_Wildlings","Great_Houses","None",0,0,0
+"BRONN","Bronn",29,432,"Male","None","Minor_Houses","Military_Knight",0,0,1
+"CATELYN","Catelyn Stark",56,1137,"Female","Westeros_South","Great_Houses","Nobility",1,3,0
+"CERSEI","Cersei Lannister",47,1347,"Female","Westeros_South","Great_Houses","Nobility",1,2,1
+"DAENERYS","Daenerys Targaryen",34,1212,"Female","None","Great_Houses","Royalty",1,0,1
+"DAREON","Dareon",11,34,"Male","None","None","None",0,0,0
+"DOREAH","Doreah",10,129,"Female","Essos","Great_Houses","None",0,0,0
+"DROGO","Drogo",13,205,"Male","Essos","None","Royalty",1,0,0
+"GENDRY","Gendry",20,377,"Male","None","None","Military_Knight",0,0,1
+"GREATJON_UMBER","Jon Umber",12,78,"Male","North_and_Wildlings","Minor_Houses","Nobility",1,0,1
+"GRENN","Grenn",12,220,"Male","Westeros_South","None","None",0,0,1
+"HODOR","Walder",17,225,"Male","None","Great_Houses","None",0,0,1
+"HOT_PIE","Hot Pie",11,145,"Male","None","None","None",0,0,1
+"HOUND","Sandor Clegane",31,444,"Male","None","Minor_Houses","None",0,0,0
+"HUGH_OF_THE_VALE","Hugh",6,23,"Male","Westeros_South","Great_Houses","Military_Knight",0,0,0
+"ILLYRIO","Illyrio Mopatis",6,54,"Male","Essos","Great_Houses","Official",0,0,1
+"ILYN_PAYNE","Ilyn Payne",13,60,"Male","Westeros_South","Minor_Houses","Official",0,0,1
+"IRRI","Irri",9,92,"Female","Essos","Great_Houses","None",0,0,1
+"JAIME","Jaime Lannister",39,876,"Male","Westeros_South","Great_Houses","Military_Knight",0,3,1
+"JANOS","Janos Slynt",13,104,"Male","None","Minor_Houses","Military_Knight",0,0,0
+"JEOR","Jeor Mormont",21,314,"Male","North_and_Wildlings","Minor_Houses","Nobility",1,0,0
+"JOFFREY","Joffrey Baratheon",49,1079,"Male","None","None","Royalty",1,0,0
+"JON","Jon Snow",42,1179,"Male","North_and_Wildlings","Great_Houses","Military_Knight",0,4,1
+"JON_ARRYN","Jon Arryn",11,55,"Male","Westeros_South","Great_Houses","Nobility",1,0,0
+"JORAH","Jorah Mormont",30,665,"Male","North_and_Wildlings","Minor_Houses","Military_Knight",0,0,1
+"JORY_CASSEL","Jory Cassel",8,100,"Male","North_and_Wildlings","Minor_Houses","Military_Knight",0,0,0
+"JOYEUSE","Joyeuse Erenford",7,26,"Female","None","Minor_Houses","Nobility",1,0,1
+"KEVAN","Kevan Lannister",9,53,"Male","None","Great_Houses","Military_Knight",0,1,0
+"LANCEL","Lancel Lannister",14,128,"Male","None","Great_Houses","Military_Knight",0,0,1
+"LITTLEFINGER","Petyr Baelish",34,747,"Male","Westeros_South","Minor_Houses","Official",0,0,1
+"LORAS","Loras Tyrell",28,350,"Male","Westeros_South","Great_Houses","Military_Knight",0,0,1
+"LYSA","Lysa Arryn",9,118,"Female","None","Great_Houses","Nobility",1,0,0
+"MAESTER_AEMON","Aemon Targaryen",10,84,"Male","Essos","None","Religion_Academic",0,0,0
+"MAESTER_LUWIN","Luwin",16,263,"Male","Westeros_South","Great_Houses","None",0,0,0
+"MARILLION","Marillion",7,34,"Male","None","None","None",0,0,0
+"MERYN_TRANT","Meryn Trant",16,161,"Male","None","Minor_Houses","Military_Knight",0,0,1
+"MIRRI_MAZ_DUUR","Mirri Maz Duur",5,81,"Female","Essos","None","Religion_Academic",0,0,0
+"MORD","Mord",7,52,"Male","None","Great_Houses","None",0,0,1
+"MOUNTAIN","Gregor Clegane",16,69,"Male","None","Minor_Houses","Military_Knight",0,0,0
+"MYRCELLA","Myrcella Baratheon",10,57,"Female","None","Great_Houses","Royalty",1,0,1
+"NED","Eddard Stark",62,1427,"Male","North_and_Wildlings","Great_Houses","Nobility",1,1,0
+"OSHA","Osha",15,401,"Female","North_and_Wildlings","Great_Houses","None",0,0,1
+"OTHELL_YARWYCK","Othell Yarwyck",6,24,"Male","None","Minor_Houses","Military_Knight",0,0,1
+"PYCELLE","Pycelle",26,343,"Male","None","Great_Houses","Religion_Academic",0,0,0
+"PYP","Pypar",16,183,"Male","None","None","None",0,0,1
+"QOTHO","Qotho",5,57,"Male","Essos","None","Royalty",1,0,0
+"RAKHARO","Rakharo",8,88,"Male","Essos","Great_Houses","Military_Knight",0,0,1
+"RAST","Rast",12,110,"Male","None","None","None",0,0,0
+"RENLY","Renly Baratheon",27,426,"Male","Westeros_South","Great_Houses","Nobility",1,0,0
+"RICKARD_KARSTARK","Rickard Karstark",16,123,"Male","North_and_Wildlings","Great_Houses","Nobility",1,0,0
+"RICKON","Rickon Stark",18,195,"Male","North_and_Wildlings","Great_Houses","Royalty",1,0,1
+"ROBB","Robb Stark",54,1219,"Male","None","None","Royalty",1,0,0
+"ROBERT","Robert I Baratheon",45,648,"Male","None","None","Royalty",1,0,0
+"ROBIN","Robert Arryn",9,70,"Male","Westeros_South","Great_Houses","Nobility",1,0,1
+"RODRIK","Rodrik Cassel",16,158,"Male","North_and_Wildlings","Minor_Houses","Military_Knight",0,0,0
+"ROOSE_BOLTON","Roose Bolton",19,203,"Male","North_and_Wildlings","Minor_Houses","Nobility",1,0,1
+"SAM","Samwell Tarly",22,611,"Male","Westeros_South","Minor_Houses","None",0,2,1
+"SANSA","Sansa Stark",40,1110,"Female","North_and_Wildlings","Minor_Houses","Royalty",1,4,1
+"SEPTA_MORDANE","Mordane",6,95,"Female","None","Great_Houses","Religion_Academic",0,0,0
+"SHAE","Shae",15,465,"Female","None","None","None",0,0,0
+"STANNIS","Stannis Baratheon",30,568,"Male","None","None","Official",0,0,1
+"THEON","Theon Greyjoy",35,897,"Male","Westeros_South","Great_Houses","Royalty",1,2,1
+"TOMMEN","Tommen Baratheon",12,67,"Male","None","None","Royalty",1,0,1
+"TYRION","Tyrion Lannister",64,2322,"Male","None","Great_Houses","Official",0,4,1
+"TYWIN","Tywin Lannister",42,799,"Male","None","Great_Houses","Nobility",1,0,0
+"VARDIS_EGEN","Vardis Egen",6,39,"Male","Westeros_South","Great_Houses","Military_Knight",0,0,0
+"VARYS","Varys",31,673,"Male","None","None","Official",0,0,1
+"VISERYS","Viserys Targaryen",9,206,"Male","Essos","Great_Houses","Royalty",1,0,0
+"WALDER","Walder Frey",19,183,"Male","None","Minor_Houses","None",0,0,1
+"WILL","Will",8,25,"Male","None","None","None",0,1,0
+"YOREN","Yoren",20,135,"Male","Westeros_South","None","None",0,0,0
+"AMORY","Amory Lorch",6,46,"Male","None","Great_Houses","Military_Knight",0,0,0
+"BLACK_LORREN","Lorren",5,35,"Male","None","None","None",0,0,0
+"BRIENNE","Brienne of Tarth",16,333,"Female","None","Great_Houses","None",0,1,1
+"CRASTER","Craster",10,114,"Male","North_and_Wildlings","None","None",0,0,0
+"DAGMER","Dagmer",10,82,"Male","Westeros_South","Great_Houses","Military_Knight",0,0,1
+"DAVOS","Davos Seaworth",20,517,"Male","Westeros_South","Great_Houses","Military_Knight",0,3,1
+"EDDISON_TOLLETT","Eddison Tollett",8,119,"Male","Westeros_South","None","Military_Knight",0,0,1
+"GILLY","Gilly",13,183,"Female","North_and_Wildlings","None","None",0,0,1
+"JAQEN","Jaqen H'ghar",8,142,"Male","None","None","None",0,0,1
+"MANCE","Mance Rayder",8,99,"Male","North_and_Wildlings","None","Royalty",1,0,1
+"MARGAERY","Margaery Tyrell",17,331,"Female","Westeros_South","Great_Houses","Royalty",1,0,1
+"MATTHOS","Matthos Seaworth",9,109,"Male","None","Minor_Houses","None",0,0,0
+"MELISANDRE","Melisandre",15,287,"Female","Essos","None","None",0,1,1
+"PODRICK","Podrick Payne",15,151,"Male","None","Minor_Houses","None",0,0,1
+"POLLIVER","Polliver",6,23,"Male","None","Minor_Houses","Official",0,0,0
+"PYATT_PREE","Pyat Pree",5,43,"Male","None","None","Religion_Academic",0,0,1
+"QHORIN","Qhorin",6,136,"Male","None","None","None",0,0,0
+"RAMSAY","Ramsay Snow",7,136,"Male","North_and_Wildlings","Minor_Houses","Nobility",1,0,1
+"LORD_OF_BONES","Lord of Bones",6,56,"Male","North_and_Wildlings","None","None",0,0,0
+"RORGE","Rorge",5,39,"Male","None","None","None",0,0,0
+"TORRHEN","Torrhen Karstark",5,16,"Male","North_and_Wildlings","Great_Houses","None",0,0,0
+"XARO","Xaro Xhoan Daxos",9,152,"Male","Essos","None","None",0,0,1
+"YARA","Asha Greyjoy",6,133,"Female","Westeros_South","Great_Houses","Royalty",1,2,1
+"YGRITTE","Ygritte",14,414,"Female","North_and_Wildlings","None","None",0,0,0
+"ANGUY","Anguy",7,93,"Male","None","None","None",0,0,1
+"BLACK_WALDER","Walder Rivers",6,26,"Male","Westeros_South","Minor_Houses","Military_Knight",0,0,1
+"BRYNDEN","Brynden Tully",11,99,"Male","Westeros_South","Great_Houses","Military_Knight",0,0,1
+"DAARIO","Daario Naharis",7,96,"Male","Essos","None","None",0,0,1
+"EDMURE","Edmure Tully",15,140,"Male","Westeros_South","Great_Houses","Military_Knight",0,0,1
+"GREY_WORM","Grey Worm",6,39,"Male","None","Great_Houses","None",0,0,1
+"JOJEN","Jojen Reed",14,186,"Male","North_and_Wildlings","Minor_Houses","None",0,0,1
+"KRAZNYS_MO_NAKLOZ","Kraznys mo Nakloz",5,84,"Male","Essos","None","None",0,0,0
+"LOTHAR","Lothar Frey",8,28,"Male","Westeros_South","Minor_Houses","Official",0,0,1
+"MEERA","Meera Reed",12,141,"Female","North_and_Wildlings","Minor_Houses","None",0,0,1
+"MERO","Mero",6,60,"Male","Essos","None","None",0,0,0
+"MISSANDEI","Missandei",10,164,"Female","Essos","Great_Houses","None",0,0,1
+"OLENNA","Olenna Redwyne",15,217,"Female","None","Minor_Houses","Nobility",1,0,1
+"ORELL","Orell",11,132,"Male","North_and_Wildlings","None","None",0,0,0
+"PRENDAHL","Prendahl na Ghezn",5,33,"Male","Essos","None","None",0,0,0
+"QYBURN","Qyburn",7,68,"Male","None","Great_Houses","Official",0,0,1
+"ROSLIN","Roslin Frey",10,44,"Female","Westeros_South","Minor_Houses","None",0,0,1
+"SHIREEN","Shireen Baratheon",5,60,"Female","None","Great_Houses","Royalty",1,0,1
+"THOROS","Thoros of Myr",10,175,"Male","Essos","None","None",0,0,1
+"TORMUND","Tormund",12,130,"Male","North_and_Wildlings","None","None",0,0,1
