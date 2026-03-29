@@ -6,8 +6,11 @@
 
 1.  **`got_nodes_clean.csv`**: Comprehensive node attribute list for all unique, named characters (N=203).
 2.  **`got_edges_clean.csv`**: The undirected edge list representing character interactions (E=1041).
-3.  **`got_s1_s3_nodes.csv`**: Initial node list of season 1-3 derived from [mathbeveridge/gameofthrones](https://github.com/mathbeveridge/gameofthrones).
-4.  **`got_s1_s3_edges.csv`**: Initial edge list of season 1-3.
+3.  **`got_ego_attribute_data.csv`**: Information on the egos. Nodes who have >= 10 degree (mean degree = 9.98) are selected as egos (N=76).
+4.  **`got_alter_attribute_data.csv`**: Information on the alters & relationships between egos and alters.
+5.  **`got_alter_alter_ties_data.csv`**: Information about the relationships between alters.
+6.  **`got_s1_s3_nodes.csv`**: Initial node list of season 1-3 derived from [mathbeveridge/gameofthrones](https://github.com/mathbeveridge/gameofthrones).
+7.  **`got_s1_s3_edges.csv`**: Initial edge list of season 1-3.
 
 ---
 
